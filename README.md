@@ -8,7 +8,7 @@
 - [전일주](http://github.com/lanace)
 - 박치국
 - 지현
-- 장지창
+- [장지창](https://github.com/jangjichang)
 - 조성일
 
 ## 스터디 진행 방식
